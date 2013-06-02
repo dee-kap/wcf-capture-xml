@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureXML.Service", "CaptureXML.Service\CaptureXML.Service.csproj", "{4DB135C4-EC47-47FB-8E11-A081D2864F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureXML.Host", "CaptureXML.Host\CaptureXML.Host.csproj", "{7DE56670-A2AE-42C6-8676-2EEA551D93C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureBehavior", "CaptureBehavior\CaptureBehavior.csproj", "{028F5EA0-AD3F-44E3-9116-21CAE62B0C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureXML.Client", "CaptureXML.Client\CaptureXML.Client.csproj", "{FE498F03-6C9F-4E0E-A2FD-A9500BAC57C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB135C4-EC47-47FB-8E11-A081D2864F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB135C4-EC47-47FB-8E11-A081D2864F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB135C4-EC47-47FB-8E11-A081D2864F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB135C4-EC47-47FB-8E11-A081D2864F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE56670-A2AE-42C6-8676-2EEA551D93C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE56670-A2AE-42C6-8676-2EEA551D93C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE56670-A2AE-42C6-8676-2EEA551D93C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE56670-A2AE-42C6-8676-2EEA551D93C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028F5EA0-AD3F-44E3-9116-21CAE62B0C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028F5EA0-AD3F-44E3-9116-21CAE62B0C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028F5EA0-AD3F-44E3-9116-21CAE62B0C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028F5EA0-AD3F-44E3-9116-21CAE62B0C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE498F03-6C9F-4E0E-A2FD-A9500BAC57C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE498F03-6C9F-4E0E-A2FD-A9500BAC57C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE498F03-6C9F-4E0E-A2FD-A9500BAC57C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE498F03-6C9F-4E0E-A2FD-A9500BAC57C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
