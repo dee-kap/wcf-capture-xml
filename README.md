@@ -1,4 +1,4 @@
-debug-release-wcf-capture-xml
+WCF capture xml sample
 =============================
 
 Code for http://www.deepakkapoor.net/2009/04/01/capture-xml-in-wcf-service/
